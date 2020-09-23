@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_wapprofile" value="name:waProfileName;datatype:string,name:wawmail_header;datatype:string,name:wawmail_splitbar;datatype:string,name:waEmail;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:waSendAsEmail;datatype:string,name:waDisplayNumber;datatype:string,name:waPhoneNumber;datatype:string,name:waUsername;datatype:string,name:waUserMessage;datatype:blob" />
+</info>

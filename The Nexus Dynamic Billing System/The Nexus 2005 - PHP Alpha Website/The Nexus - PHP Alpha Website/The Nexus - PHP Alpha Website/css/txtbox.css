@@ -1,0 +1,12 @@
+.txtbox {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #3399CC;
+	background-color: #CCCCCC;
+	width: 400px;
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1101625472" />
+	<infoitem key="UD_rsFetchNewbie" value="name:phpsessionid;datatype:string,name:ConfirmByDate;datatype:datetime,name:bConfirmed;datatype:int,name:ConfirmationCode;datatype:string,name:xoops_userID;datatype:int,name:Email;datatype:string,name:Username;datatype:string,name:md5Pass;datatype:string,name:Description;datatype:string,name:Firstname;datatype:string,name:Surname;datatype:string" />
+	<infoitem key="UD_rsStationary" value="name:HTML;datatype:blob" />
+</info>

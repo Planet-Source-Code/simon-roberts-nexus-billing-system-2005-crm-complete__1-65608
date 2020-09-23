@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsInv" value="name:AccountName;datatype:string,name:InvoiceSerial;datatype:string,name:AmtDue;datatype:real,name:AmountPaid;datatype:real,name:PaymentDue;datatype:datetime,name:PaidWhen;datatype:datetime,name:AmountCredited;datatype:real" />
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="simon@projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1087671930" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1101988413" />
+	<infoitem key="UD_rsSysopDetails" value="name:INClause;datatype:blob,name:Username;datatype:string,name:md5Pass;datatype:string" />
+	<infoitem key="UD_rsSysopDetails1" value="name:Description;datatype:string,name:ABN;datatype:string,name:Firstname;datatype:string,name:Surname;datatype:string,name:Email;datatype:string,name:Mobile;datatype:string" />
+</info>
