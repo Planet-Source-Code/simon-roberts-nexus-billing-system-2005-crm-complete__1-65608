@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_a_NumInvoices" value="name:aNumInvoices;datatype:int" />
+	<infoitem key="UD_b_NumInvoices" value="name:bNumInvoices;datatype:int" />
+	<infoitem key="UD_c_NumInvoices" value="name:bNumInvoices;datatype:int" />
+	<infoitem key="UD_c_NumPO" value="name:aNumPo;datatype:int" />
+	<infoitem key="UD_a_TotalSales" value="name:SumSales;datatype:real,name:SumPaid;datatype:real,name:SumGST;datatype:real,name:SumCredited;datatype:real,name:SumCost;datatype:real,name:SumMargin;datatype:real,name:AvgGPPerc;datatype:real" />
+	<infoitem key="UD_b_TotalSales" value="name:SumSales;datatype:real,name:SumPaid;datatype:real,name:SumGST;datatype:real,name:SumCredited;datatype:real,name:SumCost;datatype:real,name:SumMargin;datatype:real,name:AvgGPPerc;datatype:real" />
+	<infoitem key="UD_ta_NumInvoices" value="name:taNumInvoices;datatype:int" />
+	<infoitem key="UD_tb_NumInvoices" value="name:bNumInvoices;datatype:int" />
+	<infoitem key="UD_tc_NumInvoices" value="name:taNumInvoices;datatype:int" />
+	<infoitem key="UD_ta_NumPO" value="name:aNumPo;datatype:int" />
+	<infoitem key="UD_v_Joining" value="name:SumJoining;datatype:real" />
+	<infoitem key="UD_tv_Joining" value="name:Sum(JoiningFee);datatype:real" />
+	<infoitem key="UD_visps" value="name:RecID;datatype:int,name:ABN;datatype:string,name:ACN;datatype:string,name:Description;datatype:string,name:Realm;datatype:string,name:JoiningFee;datatype:real" />
+	<infoitem key="UD_accinfo" value="name:CntServices;datatype:int,name:Total;datatype:real,name:RecID;datatype:int,name:AccountName;datatype:string,name:BillingDate;datatype:datetime,name:Description;datatype:string" />
+	<infoitem key="UD_TotalCust" value="name:CustCount;datatype:int" />
+	<infoitem key="UD_sysop" value="name:Username;datatype:string,name:Firstname;datatype:string,name:Surname;datatype:string" />
+	<infoitem key="UD_rsNow" value="name:ServerTime;datatype:datetime" />
+</info>

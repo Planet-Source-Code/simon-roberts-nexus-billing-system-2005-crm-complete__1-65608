@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vispdetails" value="name:bFound;datatype:int,name:RecID;datatype:int,name:VirtualID;datatype:int,name:Description;datatype:string,name:Realm;datatype:string,name:CreationDate;datatype:timestamp,name:ABN;datatype:string,name:ACN;datatype:string,name:LogoURL;datatype:string,name:Firstname;datatype:string,name:Surname;datatype:string,name:Postcode;datatype:string,name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string,name:PhotoURL;datatype:blob" />
+</info>

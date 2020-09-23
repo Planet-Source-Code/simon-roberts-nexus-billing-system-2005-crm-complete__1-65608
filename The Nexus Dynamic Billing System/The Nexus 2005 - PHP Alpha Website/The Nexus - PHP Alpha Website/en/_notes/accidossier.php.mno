@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_acciSQL" value="name:RecID;datatype:int,name:AccountName;datatype:string,name:ActivationDate;datatype:datetime,name:ExpiryDate;datatype:datetime,name:DOB;datatype:datetime,name:sfCycle_Upload;datatype:int,name:sfCycle_Download;datatype:int,name:sfCycle_Mins;datatype:int,name:Class;datatype:string,name:ViSP;datatype:string,name:Logo;datatype:string,name:Username;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:PhoneNumber;datatype:string,name:Extension;datatype:string,name:ContactName;datatype:string,name:ShortNote;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string" />
+	<infoitem key="UD_acciServ" value="name:RecID;datatype:int,name:PeriodFee;datatype:real,name:ContractExpiry;datatype:datetime,name:Description;datatype:string,name:CatNo;datatype:string" />
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="simon@projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1087664845" />
+</info>

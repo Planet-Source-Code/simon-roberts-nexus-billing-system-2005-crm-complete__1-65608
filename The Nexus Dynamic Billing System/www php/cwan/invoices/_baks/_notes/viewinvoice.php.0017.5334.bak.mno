@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsVISPa" value="name:RecID;datatype:int,name:AgencyID;datatype:int,name:VirtualID;datatype:int,name:Description;datatype:string,name:BriefDesc;datatype:blob,name:Realm;datatype:string,name:CreationDate;datatype:timestamp,name:ABN;datatype:string,name:Subscribed;datatype:int,name:SysopID;datatype:int,name:ACN;datatype:string,name:NoSub;datatype:int,name:CreatedBy_SysopID;datatype:int,name:NextCycle;datatype:datetime,name:PreviousCycle;datatype:datetime,name:JoiningFee;datatype:real,name:LogoURL;datatype:string,name:Icon;datatype:int,name:Manager;datatype:blob,name:Comment;datatype:blob,name:MISCFee;datatype:int,name:bTaxMode;datatype:int,name:cTaxCode;datatype:string,name:cTaxCountry;datatype:string,name:cTaxExemptCode;datatype:string" />
+	<infoitem key="UD_rsSysNow" value="name:SysNow;datatype:datetime" />
+	<infoitem key="UD_rsVISPPrimartAddy" value="name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string" />
+	<infoitem key="UD_rsACCI" value="name:InvoiceSerial;datatype:string,name:acci_RecID;datatype:int,name:TotalDue;datatype:real,name:AmountPaid;datatype:real,name:PaymentDue;datatype:datetime,name:Finalised;datatype:int,name:PaidWhen;datatype:datetime,name:AmountCredited;datatype:real,name:AccountName;datatype:string,name:SysopID;datatype:int,name:sfStartTime;datatype:datetime,name:sfCycle_Upload;datatype:int,name:sfCycle_Download;datatype:int,name:sfCycle_Mins;datatype:int,name:BillingDate;datatype:datetime,name:gPassword;datatype:string" />
+	<infoitem key="UD_rsClientAddy" value="name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string" />
+	<infoitem key="UD_rsPaid" value="name:InvoiceSerial;datatype:string,name:TotalDue;datatype:real,name:AmountPaid;datatype:real,name:PaymentDue;datatype:datetime,name:AmountCredited;datatype:real" />
+	<infoitem key="UD_rsTTLPre" value="name:SMDue;datatype:real,name:SMPaid;datatype:real,name:SMCRED;datatype:real" />
+	<infoitem key="UD_rsCurInv" value="name:RecID;datatype:int,name:AccI_RecID;datatype:int,name:Due;datatype:real,name:GST;datatype:real,name:Paid;datatype:real,name:pWhen;datatype:datetime,name:TraxrID;datatype:int,name:Cred;datatype:real,name:cGST;datatype:real,name:CatNo;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_rsTTLInvoice" value="name:sDue;datatype:real,name:sGST;datatype:real,name:TotalDebit;datatype:real,name:sPaid;datatype:real,name:Credit;datatype:real,name:sCred;datatype:real,name:scGST;datatype:real,name:Total;datatype:real" />
+	<infoitem key="UD_rsSponsor" value="name:Description;datatype:string" />
+	<infoitem key="UD_rsSysop" value="name:SecurityLevel;datatype:int,name:Firstname;datatype:string,name:Surname;datatype:string,name:Email;datatype:string" />
+	<infoitem key="UD_rsVISPSalesa" value="name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string,name:visp_RecID;datatype:int" />
+	<infoitem key="UD_rsVISPAddyb" value="name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string,name:visp_RecID;datatype:int" />
+	<infoitem key="UD_rsVISPAddyC" value="name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string,name:visp_RecID;datatype:int" />
+	<infoitem key="UD_rsVISPAddyA" value="name:ContactName;datatype:string,name:Street1;datatype:string,name:Street2;datatype:string,name:Country;datatype:string,name:State;datatype:string,name:Postcode;datatype:string,name:Suburb;datatype:string,name:visp_RecID;datatype:int" />
+	<infoitem key="UD_rsVISPPhnA" value="name:visp_RecID;datatype:int,name:DateAdded;datatype:timestamp,name:PhoneNumber;datatype:string,name:Extension;datatype:string,name:ContactName;datatype:string" />
+	<infoitem key="UD_rsVISPPhnB" value="name:visp_RecID;datatype:int,name:DateAdded;datatype:timestamp,name:PhoneNumber;datatype:string,name:Extension;datatype:string,name:ContactName;datatype:string" />
+	<infoitem key="UD_rsVISPPhnC" value="name:visp_RecID;datatype:int,name:DateAdded;datatype:timestamp,name:PhoneNumber;datatype:string,name:Extension;datatype:string,name:ContactName;datatype:string" />
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="simon@projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1088238185" />
+</info>

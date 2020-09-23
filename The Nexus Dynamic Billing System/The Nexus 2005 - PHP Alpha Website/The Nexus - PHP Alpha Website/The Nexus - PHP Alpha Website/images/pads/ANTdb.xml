@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 2.0.1.22 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Exitstencil Press Pty Ltd</Company_Name>
+		<Address_1>4 McCourt St</Address_1>
+		<Address_2>(No Hawkers)</Address_2>
+		<City_Town>Sydney, Lakemba</City_Town>
+		<State_Province>NSW</State_Province>
+		<Zip_Postal_Code>2195</Zip_Postal_Code>
+		<Country>Australia</Country>
+		<Company_WebSite_URL>http://www.projectalpha.com.au/</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Simon</Author_First_Name>
+			<Author_Last_Name>Roberts</Author_Last_Name>
+			<Author_Email>simon@projectalpha.com.au</Author_Email>
+			<Contact_First_Name>Simon</Contact_First_Name>
+			<Contact_Last_Name>Roberts</Contact_Last_Name>
+			<Contact_Email>simon@projectalpha.com.au</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>sales@projectalpha.com.au</Sales_Email>
+			<Support_Email>support@projectalpha.com.au</Support_Email>
+			<General_Email>admin@projectalpha.com.au</General_Email>
+			<Sales_Phone>0410 048 082</Sales_Phone>
+			<Support_Phone>0410 048 082</Support_Phone>
+			<General_Phone>0410 048 082</General_Phone>
+			<Fax_Phone>+61-2-9740-7007</Fax_Phone>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>ANTdb 2004</Program_Name>
+		<Program_Version>1.4.0.46</Program_Version>
+		<Program_Release_Month>09</Program_Release_Month>
+		<Program_Release_Day>18</Program_Release_Day>
+		<Program_Release_Year>2004</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code>AUD</Program_Cost_Other_Code>
+		<Program_Cost_Other>25</Program_Cost_Other>
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win95,Win98,WinME,WinNT 4.x,Windows2000,WinXP,Windows2003</Program_OS_Support>
+		<Program_Language>English,Arabic,ChineseSimplified,ChineseTraditional,Czech,Danish,Finnish,French,German,Greek,Hindi,Hungarian,Italian,Japanese,Korean,Other,Polish,Portuguese,Romanian,Russian,Spanish,Swedish,Turkish,Urdu,Vietnamese,Yiddish</Program_Language>
+		<Program_Change_Info>/debug mode added for stepping through code</Program_Change_Info>
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>Security &amp; Privacy::Encryption Tools</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements>64mb Ram, 350Mhz Processor</Program_System_Requirements>
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>Y</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+		<File_Info>
+			<Filename_Versioned />
+			<Filename_Previous />
+			<Filename_Generic />
+			<Filename_Long />
+			<File_Size_Bytes>4463616</File_Size_Bytes>
+			<File_Size_K>4359</File_Size_K>
+			<File_Size_MB>4.26</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>NRG, Encryption, Cipher, Security, protection, i-ching, text analyse, text, analyse, fractal, file, CRC, MD5, Oracle</Keywords>
+			<Char_Desc_45>ANTdb 2005 - Encryption/Text Analyse</Char_Desc_45>
+			<Char_Desc_80>Alphanumeric to Trigrams [ANTdb 2005] is the forefront of fractal text analyse.</Char_Desc_80>
+			<Char_Desc_250>Alphanumeric to Trigrams [ANTdb 2005] is the forefront of fractal text analyse and encryption; It will display the physical compass map of sentences you enter we call this a datamap, charts and statistics on any language you enter into the array.</Char_Desc_250>
+			<Char_Desc_450>ANTdb is a powerful chaos analyzer, you can use it for a wide variety of tasks. Such as DNA pattern matching and text analyses. It will produce a graphical result consisting of multi-layered trigrams. You can load as many lattices as you want and the options for processes of analyses are built into the control panel. 
+
+There are built in chaos robot that will duty cycle and lattice randomise your arrays of charts. You also can adjust typeset</Char_Desc_450>
+			<Char_Desc_2000>ANTdb is a powerful chaos analyzer, you can use it for a wide variety of tasks. Such as DNA pattern matching and text analyses. It will produce a graphical result consisting of multi-layered trigrams. You can load as many lattices as you want and the options for processes of analyses are built into the control panel. 
+
+There are built in chaos robot that will duty cycle and lattice randomise your arrays of charts. You can also adjust the order of elements used for different type of typeset. 
+
+A trigram consist of 6 horizontal lines that are either broken or joined. This is also seen as Yin and Yang. While exploring this strange language developed by the chinese, 5000 years ago. We also discovered a very effective encryption formula that we have done a file encryption example of for your enjoyment. This type of encryption was dubbed NRG because of the way it changes the signals of electricity inside the byte array. Mixing and matching bits.
+
+The humble trigram is dived up into a couple of different types of elements that ANTdb reports statistics on. These are the Elements and the Nuclear. Each consisting of different parts of the whole trigram. The order of the element appearing above an (8,8) array is one of the 3 keys in NRG encryption.
+
+If you wanted to write this into a port to port tcp/ip connection you would be able to cycle the keys with a divinan handshake between the clients, this would product high grade military encryption well over 4KBits. Anything is possible with NRG it is like a 6 bit joggle dial per byte, spin that wheel. This is possibly the worlds first Fractal Based Encryption set. 
+
+Anyway I hope this little explanation will provide you with enough details to have a look at this fancy little app. It also has a built in message board for MySQL servers. We have just started a divination component into ant, this is exspected to be released in a couple of months, after we have finished building the matrix. *** DIVINTATION NEXT VERSION ***</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.projectalpha.com.au/software.php</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://www.projectalpha.com.au/images/antdb.2004/screenshot.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.projectalpha.com.au/images/icons/ANTdb.jpg</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.projectalpha.com.au/bin/ANTDB.pad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.projectalpha.com.au/bin/ANTdb.msi</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>The Software is being delivered to you AS IS and the author and his team make no warranty as to its use or performance. THE PROJECT ALPHA TEAM DOES NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE SOFTWARE OR DOCUMENTATION. THE PROJECT ALPHA TEAM MAKES NO WARRANTIES, EXPRESSED OR IMPLIED AS TO NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE. IN NO EVENT THE PROJECT ALPHA TEAM BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS OR LOST SAVINGS, EVEN IF A MEMBER OF THE PROJECT ALPHA TEAM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY THIRD PARTY. Some states or jurisdictions do not allow the exclusion or limitation of incidental, consequential or special damages, or the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you.</Distribution_Permissions>
+		<EULA>ANTdb 2005
+Exitstencil Press Pty Ltd (ACN 096 867 775)
+Copyright © 2003, 2004 - All Rights Reserved 
+http://www.projectalpha.com.au/
+
+
+End User License agreement
+
+
+This End User License Agreement accompanies the The ANTdb product and related explanatory materials ("Software"). The term "Software" also shall include any upgrades, modified versions or updates of the Software licensed to you by the Project alpha Team. Please read this Agreement carefully. At the end, you will be asked to accept this agreement and continue to install or, if you do not wish to accept this Agreement, to decline this agreement, in which case you will not be able to use the Software. Upon your acceptance of this Agreement, we grant to you a nonexclusive license to use the Software, provided that you agree to the following:
+
+1. Ownership
+This software at all times remains the property of Exitstencil Press Pty. Ltd. You are allow to install it as many times as you may; to access the network that it configures. At anytime we reserve the right to charge you a Fee for it ongoing development and maintenance of it systems of business
+
+2. Use of the Software
+You may install the Software on a hard disk or other storage device; install and use the Software on a file server for use on a network for the purposes of (i) permanent installation onto hard disks or other storage devices or (ii) use of the Software over such network; and make backup copies of the Software. You may make and distribute unlimited copies of the Software, as long as each copy that you make and distribute contains this Agreement, the Project alpha installer, and the same copyright and other proprietary notices pertaining to this Software that appear in the Software. If you download the Software from the Internet or similar on-line source, you must include this copyright notice for the Software with any on-line distribution and on any media you distribute that includes the Software.
+
+3. Copyright and Trademark Rights
+The Software is owned by Simon Roberts (the author) and his team, and its structure, organization and code are the valuable trade secrets of the Project alpha Team. Australian; Copyright Law and International Treaty provisions protect the Software. You may use trademarks only insofar as required to comply with Section 1 of this Agreement and to identify printed output produced by the Software, in accordance with accepted trademark practice, including identification of trademark owner’s name. Such use of any trademark does not give you any rights of ownership in that trademark. Except as stated above, this Agreement does not grant you any intellectual property rights in the Software.
+
+4. Restrictions
+You agree not to modify, adapt, translate, reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software. 
+
+5. No Warranty 
+The Software is being delivered to you AS IS and the author and his team make no warranty as to its use or performance. THE PROJECT ALPHA TEAM DOES NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE SOFTWARE OR DOCUMENTATION. THE PROJECT ALPHA TEAM MAKES NO WARRANTIES, EXPRESSED OR IMPLIED AS TO NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, OR FITNESS FOR ANY PARTICULAR PURPOSE. IN NO EVENT THE PROJECT ALPHA TEAM BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS OR LOST SAVINGS, EVEN IF A MEMBER OF THE PROJECT ALPHA TEAM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY THIRD PARTY. Some states or jurisdictions do not allow the exclusion or limitation of incidental, consequential or special damages, or the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you.
+
+6. Governing Law and General Provisions
+This agreement shall be governed by the International Copyright laws. The Copyright laws of Australia and the Copyright laws of Australian Union. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. If any part of this Agreement is found void and unenforceable, it will not affect the validity of the balance of the Agreement, which shall remain valid and enforceable according to its terms. You agree that the Software will not be shipped, transferred or exported into any country or used in any manner prohibited by any export laws, restrictions or regulations. This Agreement shall automatically terminate upon failure by you to comply with its terms. This Agreement may only be modified in writing signed by an authorized member of the The ANTdb Team.
+
+The ANTdb Team
+Email: sales@projectalpha.com.au
+On the Web: http://www.projectalpha.com.au/software.php</EULA>
+	</Permissions>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+</XML_DIZ_INFO>

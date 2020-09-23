@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsActive" value="name:RecID;datatype:int,name:AccountName;datatype:string,name:BillingDate;datatype:datetime,name:Class;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:NumServ;datatype:int" />
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="simon@projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1087381534" />
+</info>

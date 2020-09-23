@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_EnquiryID" value="name:RecID;datatype:int,name:state;datatype:string,name:queried;datatype:timestamp" />
+</info>

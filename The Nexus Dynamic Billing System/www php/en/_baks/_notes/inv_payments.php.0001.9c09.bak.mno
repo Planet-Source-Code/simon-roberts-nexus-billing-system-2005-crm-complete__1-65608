@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsInvItn" value="name:AmountDue;datatype:real,name:GSTCharged;datatype:real,name:PaymentDue;datatype:datetime,name:AmountPaid;datatype:real,name:PaidWhen;datatype:datetime,name:TotalDue;datatype:real,name:Description;datatype:string" />
+	<infoitem key="UD_rsInvPayments" value="name:Amount;datatype:real,name:GST;datatype:real,name:Sub;datatype:real,name:WhenPaid;datatype:timestamp,name:TotalPaid;datatype:real,name:Description;datatype:string" />
+	<infoitem key="UD_rsTotalsInv" value="name:ttlDue;datatype:real,name:ttlGST;datatype:real,name:ttlPaid;datatype:real,name:ttltotaldue;datatype:real" />
+	<infoitem key="UD_ttlInv" value="name:ttlDue;datatype:real,name:ttlGST;datatype:real,name:ttlPaid;datatype:real,name:ttltotaldue;datatype:real" />
+	<infoitem key="UD_rsAcci" value="name:AccountName;datatype:string" />
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="simon@projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1087671456" />
+</info>

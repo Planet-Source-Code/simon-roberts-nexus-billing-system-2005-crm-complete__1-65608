@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_yourvisps" value="name:bFound;datatype:int,name:RecID;datatype:int,name:ProdCount;datatype:int,name:InvCount;datatype:int,name:SysopsCount;datatype:int,name:Description;datatype:string" />
+	<infoitem key="UD_STATS" value="name:CntVisp;datatype:int,name:STDJN;datatype:real,name:AVGJN;datatype:real" />
+	<infoitem key="UD_sysops" value="name:CntSYS;datatype:int" />
+	<infoitem key="UD_stats2" value="name:INVCNT;datatype:int" />
+	<infoitem key="UD_stats3" value="name:PLNCNT;datatype:int" />
+	<infoitem key="ccLastSubmitter" value="psyhkal" />
+	<infoitem key="ccLastSubmitterEmail" value="simon@projectalpha.com.au" />
+	<infoitem key="ccLastPublishDate" value="1086432332" />
+</info>

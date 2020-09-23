@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_wapprofile" value="name:waProfileName;datatype:string,name:waURLComment;datatype:blob,name:waURL;datatype:string,name:waTLImg;datatype:string,name:waTImg;datatype:string,name:waTRImg;datatype:string,name:waBlImg;datatype:string,name:waBImg;datatype:string,name:waBRImg;datatype:string,name:waHeaderComment;datatype:string,name:waFooterComment;datatype:string,name:waBackground;datatype:string" />
+</info>
